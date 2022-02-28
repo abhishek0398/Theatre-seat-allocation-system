@@ -1,0 +1,50 @@
+Test case 1
+R001 201
+R002 20
+R004 20
+R005 20
+
+Test case 2 
+R001 20
+R002 20
+R004 20
+R005 20
+
+Test case 3
+R001 20
+R002 20
+R004 20
+R005 20
+R006 20
+
+Test case 4
+R001 20
+R002 20
+R004 20
+R005 20
+R006 21
+
+Test case 5
+R001 30
+
+Test case 6
+R001 30
+R002 58
+
+Test case 7
+R001 30
+R002 58
+R003 2
+R004 7
+
+Test case 8
+R001 30
+R002 58
+R003 2
+R004 4
+
+Test case 9
+R001 30
+R002 58
+R003 2
+R004 5
