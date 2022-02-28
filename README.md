@@ -29,9 +29,9 @@ Here, priority of 1 denotes the highest priority and 10 denotes the least priori
 
 Instructions:
 
-Download theatre_seat_allocation.py
-Open command line and run the python file in the same repository as the code using "python theatre.seat_allocation.py <input_text_file>"
-Read output_file.txt file that will be created in the same directory as the code file. 
+1. Download theatre_seat_allocation.py
+2. Open command line and run the python file in the same repository as the code using "python theatre.seat_allocation.py <input_text_file>"
+4. Read output_file.txt file that will be created in the same directory as the code file. 
 
 Further Improvements: 
 1. Coumn wise priority can be implemented to assign the middle seats first to the customers. 
