@@ -112,8 +112,7 @@ def main(file_content, path):
         res = allocate_seats(record, total_seats, row_priority, seats)
         if res == -1:
             # print("No seats available")
-            output_writer.write("No more seats available")
-            break         
+            output_writer.write("No more seats available \n")
         else:
             # print(seats)
             # print(res)
