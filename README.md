@@ -4,17 +4,19 @@ Implemented in Python.
 
 Features of the model: 
 1. A priority based approach was used to assign the seats. This priority is depicted below: 
->Row Name&nbsp;Priority 
->E&nbsp;&nbsp;1
->F&nbsp;&nbsp;2
->G&nbsp;&nbsp;3
->D&nbsp;&nbsp;4
->H&nbsp;&nbsp;5
->C&nbsp;&nbsp;6
->I&nbsp;&nbsp;7
->J&nbsp;&nbsp;8
->B&nbsp;&nbsp;9
->A&nbsp;&nbsp;10
+<pre>
+>Row Name  Priority 
+>E            1
+>F            2
+>G            3
+>D            4
+>H            5
+>C            6
+>I            7
+>J            8
+>B            9
+>A            10
+</pre>
 Here, priority of 1 denotes the highest priority and 10 denotes the least priority. 
 
 2. A customer who has requested a specific number of seats is preffered to be given seats together. But, if the theatre does not have consecutive seats, then random allocation occurs. 
