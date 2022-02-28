@@ -96,7 +96,7 @@ def main(file_content, path):
     """
     folder_path = os.path.split(path)[0]
     output_file_path = os.path.join(folder_path, "output_file.txt")
-    # print(output_file_path)
+    print("output file path: ",output_file_path)
     output_writer = open(output_file_path, 'w')
     row_priority = {1: {"E": 4}, 2: {"F": 5}, 3: {"G": 6}, 4: {"D": 3}, 
                     5: {"H": 7}, 6: {"C": 2}, 7: {"I": 8}, 8: {"J": 9}, 
